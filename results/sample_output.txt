@@ -1,0 +1,5 @@
+Model: Random Forest
+Classes: dog_bark, drilling, siren, street_music
+Features: 13 MFCC mean values
+Train/Test split: 80/20
+Accuracy: 0.9875
